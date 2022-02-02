@@ -1,6 +1,6 @@
 let accessToken;
 const clientId = 'f4a01706a3f445679bf095d7f30d898b';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'https://brave-edison-56ed05.netlify.app/';
 
 const Spotify = {
   getAccessToken() {
